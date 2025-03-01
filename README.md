@@ -15,7 +15,7 @@ This project detects fake news using **multiple ML models** and an **ensemble ap
 ## 🛠 Installation & Setup  
 ```sh
 # Clone the Repository
-git clone https://github.com/your-username/fake-news-detection.git
+git clone https://github.com/arbinsigdel12/Fake-News-Detection-.git
 
 # Install Dependencies
 pip install -r requirements.txt
